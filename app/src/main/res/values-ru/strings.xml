@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decounter</string>
+    <string name="counter">Счётчик</string>
+    <string name="settings">Настройки</string>
+    <string name="profile">Профиль</string>
+    <string name="login">Войти</string>
+</resources>

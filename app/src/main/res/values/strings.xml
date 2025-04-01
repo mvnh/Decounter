@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decounter</string>
+    <string name="counter">Counter</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+</resources>
