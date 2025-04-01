@@ -88,12 +88,9 @@ fun RootNavBar(
     currentConfiguration: RootComponent.Configuration,
     onNavigateTo: OnNavigateTo
 ) {
-    NavigationBar(
-        containerColor = MaterialTheme.colorScheme.surface
-    ) {
+    NavigationBar {
         navBarItems.forEach { item ->
             val isSelected = item.configuration == currentConfiguration
-
             NavigationBarItem(
                 selected = isSelected,
                 onClick = {
